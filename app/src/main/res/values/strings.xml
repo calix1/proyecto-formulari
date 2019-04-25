@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">formulario</string>
+    <string name="action_settings">Settings</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="pais">Pais</string>
+    <string name="textoitem">textoItem</string>
+</resources>
